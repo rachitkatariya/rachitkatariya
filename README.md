@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Rachit Katariya</h1>
-<h3 align="center">aspiring to become a developer.</h3>
+<h1 align="center"> hey! I'm rachitkatariya </h1>
+<h3 align="center"> WEB | DSA | Community </h3>
 
 <div align="center"> <img src="htpps://raw.githubcontent.com/rachitkatariya/rachitkatariya/main/Github.png"> </div>
 
@@ -8,9 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitkatariya&label=Profile%20views&color=0e75b6&style=flat" alt="rachitkatariya" /> </p>
 
-<p align="left"> <a href="https://twitter.com/rachitkatariya_" target="blank"><img src="https://img.shields.io/twitter/follow/rachitkatariya_?logo=twitter&style=for-the-badge" alt="rachitkatariya_" /></a> </p>
+<p> </p>
 
-- 🌱 I’m currently learning **MERN Fullstack development**
+• </>
+• aspirng to become,
+• MERN/MEAN Full Stack Developer
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
