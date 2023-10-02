@@ -8,8 +8,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rachitkatariya&label=Profile%20views&color=0e75b6&style=flat" alt="rachitkatariya" /> </p>
 
-<p> • aspirng to become,</p>
+<p> • CCSU 25'</p>
+<p> • aspirng to become </p>
 <p> • MERN/MEAN Full Stack Developer</p>
+<p> • ~ what belongs to you will find you ?</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +24,7 @@
 <h3 align="left"> Skills </h3>
 <p> • Content Writing </p>
 <p> • Graphic Designing</p>
-<p> • C-C++ / Java / Python</p>
+<p> • C / C++ / Java / Python</p>
 <p> • HTML | CSS | JavaScript </p>
 
 
